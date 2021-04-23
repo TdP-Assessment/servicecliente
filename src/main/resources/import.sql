@@ -1,0 +1,1 @@
+insert into cliente(tipodocumento,numerodocumento,nombresyapellidos,fechanacimiento) values('dni','123456','pedro perez',NOW())
